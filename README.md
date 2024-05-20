@@ -3,10 +3,7 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: Alvaro Garcia Baena
-
-
-Fecha: 20/05/2024
+Autor: Alvaro Garcia Baena      Fecha: 20/05/2024
 
 ![Cultura Digital](descarga.png) 
 
