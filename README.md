@@ -8,7 +8,7 @@ Fecha: 20/05/2024
 
 
 
-![Cultura Digital](descarga1.png) 
+![Cultura Digital](imagen.png) 
 
 
 
