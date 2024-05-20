@@ -3,7 +3,10 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: Alvaro Garcia Baena      Fecha: 20/05/2024
+Autor: Alvaro Garcia Baena          Fecha: 20/05/2024
+
+>"Los medios híbridos basados en software combinan características y capacidades de diferentes formas de medios, como texto, imagen, video e interactividad, de maneras que trascienden sus definiciones originales."
+>(Lev Manovich, 2013)
 
 ![Cultura Digital](descarga.png) 
 
