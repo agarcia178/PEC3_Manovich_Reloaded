@@ -15,6 +15,8 @@ Autor: Alvaro Garcia Baena          Fecha: 20/05/2024
 
 >"Los medios híbridos basados en software combinan características y capacidades de diferentes formas de medios, como texto, imagen, video e interactividad, de maneras que trascienden sus definiciones originales."
 >(Lev Manovich, 2013)
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
