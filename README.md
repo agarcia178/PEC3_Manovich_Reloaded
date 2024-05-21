@@ -21,7 +21,9 @@ Fecha: 20/05/2024
 
 La hibridacion segun Lev es la combinacion de varias tecnologias para fusionar una nueva manera de creacion.
 Gracias a este concepto nos permite unir tecnologias ya sean texto , imagen o cualquier otro tipo digital para crear nuevos contenidos que conbinan nuevas formas tecnologicas
-Como veremos mas adelante 
+
+Como veremos mas adelante tanto Playtomic y Tinder son unos claros ejemplos de Hibridacion , ya que combinan diferentes tecnologias para crear unas aplicaciones unicas y pioneras en su entorno
+
 
 
 ## Re-descubriendo la hibridacion: _PlayTomic_
