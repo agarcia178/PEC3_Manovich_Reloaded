@@ -36,8 +36,10 @@ Playtomic
 ## Re-descubriendo la hibridacion: _Tinder_
 ![Cultura Digital](Tinder.jpg)
 
-Tinder seguro que tod@s la conocemos ya sea por uso personal o por algun amig@ que conoce de esta aplicacion hecha para el mundo de las relaciones humanas , Tider es claramente una aplicacion que combian los que Lev desarolla en su concepto de Hibridacion.
+Seguro que tod@s conocemos Tinder ya sea por uso personal o por algun amig@ que conoce de esta aplicacion creada para el mundo de las relaciones humanas , Tider es claramente una aplicacion que combina los que Lev Manovich desarolla en su concepto de Hibridacion.
+Tinder es una aplicacion que fusiona muchas tecnologias , de primeras , debemos crear un perfil que ya simplemente tienes la fusion del **texto** con las **imagenes** que encima se puede anclar para ver perfiles de los usuarios de diferentes plataformas como Facebook o Instagram entre otras.
 
+Cuenta con un **sistema de Geolocalizacion** que permite a los usuarios cercanos poder interractuar en tiempo real
 
 
 ### Referencias y Bibliografía
