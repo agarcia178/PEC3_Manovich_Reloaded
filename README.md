@@ -33,6 +33,8 @@ Como veremos más adelante tanto Playtomic como Tinder son dos claros ejemplos d
 ## El deporte a un click de movil, _PlayTomic_
 ![Cultura Digital](Playtomic.jpg)
 
+[Playtomic]( https://playtomic.io/)
+
 Playtomic es la comunidad de jugadores de Padel y Tenis mas grande que hay en la actualidad , segun los creadores es una aplicacion hecha para y por ti. 
 
 Playtomic 
@@ -40,6 +42,8 @@ Playtomic
 
 ## Relacionarse sin salir de casa a la máxima expresión, _Tinder_
 ![Cultura Digital](Tinder.jpg)
+
+[Tinder]( https://tinder.com/)
 
 Seguro que tod@s conocemos Tinder ya sea por uso personal o por algún amig@ que conoce de esta aplicación creada para el mundo de las relaciones humanas, Tinder es claramente una aplicación que combina los que Lev Manovich desarrolla en su concepto de Hibridación.
 Tinder es una aplicación que fusiona muchas tecnologías, de primeras, debemos crear un perfil que ya simplemente tienes la fusión del **texto** con las **imágenes**, **música** .. ya que puede anclarse en tu perfil para que otros usuarios puedan ver tus preferencias o gustos de diferentes plataformas como Facebook, Instagram o Spotify entre otras.
