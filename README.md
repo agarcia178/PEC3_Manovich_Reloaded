@@ -45,12 +45,12 @@ Playtomic
 
 [Tinder]( https://tinder.com/)
 
-Seguro que tod@s conocemos Tinder ya sea por uso personal o por algún amig@ que conoce de esta aplicación creada para el mundo de las relaciones humanas, Tinder es claramente una aplicación que combina los que Lev Manovich desarrolla en su concepto de Hibridación.
-Tinder es una aplicación que fusiona muchas tecnologías, de primeras, debemos crear un perfil que ya simplemente tienes la fusión del **texto** con las **imágenes**, **música** .. ya que puede anclarse en tu perfil para que otros usuarios puedan ver tus preferencias o gustos de diferentes plataformas como Facebook, Instagram o Spotify entre otras.
+Seguro que todos conocemos Tinder ya sea por uso personal o por algún amigo o amiga que conoce de esta aplicación creada para el mundo de las relaciones humanas, Tinder es claramente una aplicación que combina los que Lev Manovich desarrolla en su concepto de Hibridación.
+Tinder es una aplicación que fusiona muchas tecnologías, de primeras, debemos crear un perfil que ya simplemente tienes la fusión del **texto**,**imágenes**,**música** .. ya que puede anclarse en tu perfil para que otros usuarios puedan ver tus preferencias o gustos de diferentes plataformas como Facebook, Instagram o Spotify entre otras.
 
 Cuenta con un **sistema de Geolocalización** que permite a los usuarios cercanos poder interactuar en tiempo real por cercanía
 
-El sistema de esta aplicación es muy simple ( a priori ) ya que por detrás corre un sistema de **AI** que hace que las personas que te presenta la aplicación se base en un sistema de aprendizaje basado en los gustos de los usuarios
+El sistema de esta aplicación es muy simple ( a priori ) ya que por detrás corre un sistema de **IA** que hace que las personas que te presenta la aplicación se base en un sistema de aprendizaje basado en los gustos de los usuarios
 
 Además de todo esto los usuari@s pueden hacer un **filtrado** de presentación de posibles candidat@s ya sea basándose en edad, sexo , hobbies , raza ... 
  
