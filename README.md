@@ -4,7 +4,7 @@
 
 
 >Autor: **Alvaro Garcia Baena**          
-Fecha: **10/05/2024**
+Fecha: **19/05/2024**
 
 
 
@@ -30,7 +30,7 @@ Como veremos más adelante tanto Playtomic como Tinder son dos claros ejemplos d
 
 
 
-## Re-descubriendo la hibridacion: _PlayTomic_
+## El deporte a un click de movil, _PlayTomic_
 ![Cultura Digital](Playtomic.jpg)
 
 Playtomic es la comunidad de jugadores de Padel y Tenis mas grande que hay en la actualidad , segun los creadores es una aplicacion hecha para y por ti. 
@@ -38,7 +38,7 @@ Playtomic es la comunidad de jugadores de Padel y Tenis mas grande que hay en la
 Playtomic 
 
 
-## Re-descubriendo la hibridacion: _Tinder_
+## Relacionarse sin salir de casa a la máxima expresión _Tinder_
 ![Cultura Digital](Tinder.jpg)
 
 Seguro que tod@s conocemos Tinder ya sea por uso personal o por algún amig@ que conoce de esta aplicación creada para el mundo de las relaciones humanas, Tinder es claramente una aplicación que combina los que Lev Manovich desarrolla en su concepto de Hibridación.
