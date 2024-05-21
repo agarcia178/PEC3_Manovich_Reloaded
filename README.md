@@ -29,8 +29,8 @@ Como veremos mas adelante tanto Playtomic y Tinder son unos claros ejemplos de H
 ## Re-descubriendo la hibridacion: _PlayTomic_
 ![Cultura Digital](Playtomic.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+Playtomic es la comunidad de jugadores de Padel y Tenis mas grande que hay en la actualidad , segun los creadores es una aplicacion hecha para y por ti. 
+Playtomic 
 
 
 ## Re-descubriendo la hibridacion: _Tinder_
