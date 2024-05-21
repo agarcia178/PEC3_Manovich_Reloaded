@@ -37,9 +37,15 @@ Playtomic
 ![Cultura Digital](Tinder.jpg)
 
 Seguro que tod@s conocemos Tinder ya sea por uso personal o por algun amig@ que conoce de esta aplicacion creada para el mundo de las relaciones humanas , Tider es claramente una aplicacion que combina los que Lev Manovich desarolla en su concepto de Hibridacion.
-Tinder es una aplicacion que fusiona muchas tecnologias , de primeras , debemos crear un perfil que ya simplemente tienes la fusion del **texto** con las **imagenes** que encima se puede anclar para ver perfiles de los usuarios de diferentes plataformas como Facebook o Instagram entre otras.
+Tinder es una aplicacion que fusiona muchas tecnologias , de primeras , debemos crear un perfil que ya simplemente tienes la fusion del **texto** con las **imagenes**, **musica** .. ya que puede anclarse en tu perfil para que otros usuarios puedan ver tus preferencias o gustos de diferentes plataformas como Facebook , Instagram o Spotify entre otras.
 
-Cuenta con un **sistema de Geolocalizacion** que permite a los usuarios cercanos poder interractuar en tiempo real
+Cuenta con un **sistema de Geolocalizacion** que permite a los usuarios cercanos poder interractuar en tiempo real por cercania
+
+El sitema de esta aplicacion es muy simple ( a priori ) ya que por detras corre un sistema de AI que hace que las personas que te presenta la aplicacion se base en un sistema de aprendizaje basado en los gustos de los usuarios
+
+Ademas de todo esto los usuari@s pueden hacer un flitrado de presentacion de posibles candidat@s ya sea basandose en edad , sexo , hobbies , raza ... 
+
+
 
 
 ### Referencias y Bibliografía
