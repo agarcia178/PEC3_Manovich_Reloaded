@@ -38,7 +38,7 @@ Playtomic es la comunidad de jugadores de Padel y Tenis mas grande que hay en la
 Playtomic 
 
 
-## Relacionarse sin salir de casa a la máxima expresión _Tinder_
+## Relacionarse sin salir de casa a la máxima expresión, _Tinder_
 ![Cultura Digital](Tinder.jpg)
 
 Seguro que tod@s conocemos Tinder ya sea por uso personal o por algún amig@ que conoce de esta aplicación creada para el mundo de las relaciones humanas, Tinder es claramente una aplicación que combina los que Lev Manovich desarrolla en su concepto de Hibridación.
