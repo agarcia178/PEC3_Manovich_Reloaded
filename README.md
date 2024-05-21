@@ -36,7 +36,8 @@ Playtomic
 ## Re-descubriendo la hibridacion: _Tinder_
 ![Cultura Digital](Tinder.jpg)
 
-TRABAJANDO........
+Tinder seguro que tod@s la conocemos ya sea por uso personal o por algun amig@ que conoce de esta aplicacion hecha para el mundo de las relaciones humanas , Tider es claramente una aplicacion que combian los que Lev desarolla en su concepto de Hibridacion.
+
 
 
 ### Referencias y Bibliografía
