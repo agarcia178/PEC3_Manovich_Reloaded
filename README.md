@@ -36,14 +36,16 @@ Playtomic
 ## Re-descubriendo la hibridacion: _Tinder_
 ![Cultura Digital](Tinder.jpg)
 
-Seguro que tod@s conocemos Tinder ya sea por uso personal o por algun amig@ que conoce de esta aplicacion creada para el mundo de las relaciones humanas , Tider es claramente una aplicacion que combina los que Lev Manovich desarolla en su concepto de Hibridacion.
-Tinder es una aplicacion que fusiona muchas tecnologias , de primeras , debemos crear un perfil que ya simplemente tienes la fusion del **texto** con las **imagenes**, **musica** .. ya que puede anclarse en tu perfil para que otros usuarios puedan ver tus preferencias o gustos de diferentes plataformas como Facebook , Instagram o Spotify entre otras.
+Seguro que tod@s conocemos Tinder ya sea por uso personal o por algún amig@ que conoce de esta aplicación creada para el mundo de las relaciones humanas, Tinder es claramente una aplicación que combina los que Lev Manovich desarrolla en su concepto de Hibridación.
+Tinder es una aplicación que fusiona muchas tecnologías, de primeras, debemos crear un perfil que ya simplemente tienes la fusión del **texto** con las **imágenes**, **música** .. ya que puede anclarse en tu perfil para que otros usuarios puedan ver tus preferencias o gustos de diferentes plataformas como Facebook, Instagram o Spotify entre otras.
 
-Cuenta con un **sistema de Geolocalizacion** que permite a los usuarios cercanos poder interractuar en tiempo real por cercania
+Cuenta con un **sistema de Geolocalización** que permite a los usuarios cercanos poder interactuar en tiempo real por cercanía
 
-El sitema de esta aplicacion es muy simple ( a priori ) ya que por detras corre un sistema de AI que hace que las personas que te presenta la aplicacion se base en un sistema de aprendizaje basado en los gustos de los usuarios
+El sistema de esta aplicación es muy simple ( a priori ) ya que por detrás corre un sistema de **AI** que hace que las personas que te presenta la aplicación se base en un sistema de aprendizaje basado en los gustos de los usuarios
 
-Ademas de todo esto los usuari@s pueden hacer un flitrado de presentacion de posibles candidat@s ya sea basandose en edad , sexo , hobbies , raza ... 
+Además de todo esto los usuari@s pueden hacer un **filtrado** de presentación de posibles candidat@s ya sea basándose en edad, sexo , hobbies , raza ... 
+ 
+Y para rematar la fantástica aplicación de relaciones humanas , es posible la **comunicación** vía chat con la posibilidad de envío de fotos y videos , lo que hace la experiencia del usuari@ mucho más fácil , ágil y divertida.
 
 
 
