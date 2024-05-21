@@ -46,7 +46,7 @@ Playtomic
 [Tinder]( https://tinder.com/)
 
 Seguro que todos conocemos Tinder ya sea por uso personal o por algún amigo o amiga que conoce de esta aplicación creada para el mundo de las relaciones humanas, Tinder es claramente una aplicación que combina los que Lev Manovich desarrolla en su concepto de Hibridación.
-Tinder es una aplicación que fusiona muchas tecnologías, de primeras, debemos crear un perfil que ya simplemente tienes la fusión del **texto**,**imágenes**,**música** .. ya que puede anclarse en tu perfil para que otros usuarios puedan ver tus preferencias o gustos de diferentes plataformas como Facebook, Instagram o Spotify entre otras.
+Tinder es una aplicación que **fusiona muchas tecnologías**, de primeras, debemos crear un perfil que ya simplemente tienes la fusión del texto,imágenes,música .. ya que puede anclarse en tu perfil para que otros usuarios puedan ver tus preferencias o gustos de diferentes plataformas como Facebook, Instagram o Spotify entre otras.
 
 Cuenta con un **sistema de Geolocalización** que permite a los usuarios cercanos poder interactuar en tiempo real por cercanía
 
