@@ -61,7 +61,9 @@ Y para rematar la fantástica aplicación de relaciones humanas , es posible la 
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Tinder. (2024). Tinder. https://www.tinder.com
+* Playtomic. (2024). Playtomic: La app para reservar pistas y jugar partidos de pádel y tenis. https://www.playtomic.io
 
 
 ----
