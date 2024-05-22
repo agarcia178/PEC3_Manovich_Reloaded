@@ -53,6 +53,8 @@ Cuenta con un **sistema de Geolocalización** que permite a los usuarios cercano
 El sistema de esta aplicación es muy simple ( a priori ) ya que por detrás corre un sistema de **IA** que hace que las personas que te presenta la aplicación se base en un sistema de aprendizaje basado en los gustos de los usuarios
 
 Además de todo esto los usuari@s pueden hacer un **filtrado** de presentación de posibles candidat@s ya sea basándose en edad, sexo , hobbies , raza ... 
+
+Tinder lanzo un nuevo sistema de **compartir cita** , lo que hace mucho más segura las relaciones , ya que este compartir se lo puedes enviar a tus familiares y amigos
  
 Y para rematar la fantástica aplicación de relaciones humanas , es posible la **comunicación** vía chat con la posibilidad de envío de fotos y videos , lo que hace la experiencia del usuari@ mucho más fácil , ágil y divertida.
 
