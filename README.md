@@ -37,7 +37,8 @@ Como veremos más adelante tanto Playtomic como Tinder son dos claros ejemplos d
 
 Playtomic es la comunidad de jugadores de Padel y Tenis mas grande que hay en la actualidad , segun los creadores es una aplicacion hecha para y por ti. 
 
-Playtomic 
+Playtomic es una integracion de **muchas tecnologias** para hacer del deporte una experiencia totalmente distinta.
+Con Playtomic la reserva de las pista se hace totalmente digiltal ya que integra una relacion de clubs donde se practican dichos 
 
 
 ## Relacionarse sin salir de casa a la máxima expresión, _Tinder_
