@@ -63,7 +63,7 @@ Y para rematar la fantástica aplicación de relaciones humanas , es posible la 
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Tinder. (2024). Tinder. https://www.tinder.com
-* Rim, H. (2024, abril 22). Tinder launching "Share My Date" feature for sending match details to friends and parents. Forbes. Recuperado de https://www.forbes.com/sites/hyunsoorim/2024/04/22/tinder-launching-share-my-date-feature-for-sending-match-details-to-friends-and-parents/?sh=184aa44b499d
+* Rim, H. (2024, abril 22). Tinder lanza la función "Compartir mi cita" para enviar detalles de coincidencias a amigos y padres. Forbes. https://www.forbes.com/sites/hyunsoorim/2024/04/22/tinder-launching-share-my-date-feature-for-sending-match-details-to-friends-and-parents/?sh=184aa44b499d
 * Playtomic. (2024). Playtomic: La app para reservar pistas y jugar partidos de pádel y tenis. https://www.playtomic.io
   
 
