@@ -38,7 +38,11 @@ Como veremos más adelante tanto Playtomic como Tinder son dos claros ejemplos d
 Playtomic es la comunidad de jugadores de Padel y Tenis mas grande que hay en la actualidad , segun los creadores es una aplicacion hecha para y por ti. 
 
 Playtomic es una integracion de **muchas tecnologias** para hacer del deporte una experiencia totalmente distinta.
-Con Playtomic la reserva de las pista se hace totalmente digiltal ya que integra una relacion de clubs donde se practican dichos 
+
+Playtomic es una aplicación que ha transformado la manera en que reservamos pistas para pádel, tenis y otros deportes, además de organizar eventos deportivos. Según la teoría de la hibridación de Lev Manovich, Playtomic integra tecnologías tradicionales y digitales para ofrecer una experiencia innovadora. La aplicación facilita la reserva de pistas y la gestión de eventos de manera digital, un proceso que antes se realizaba por teléfono o en persona.
+Mediante el uso de geolocalización, los usuarios pueden encontrar pistas cercanas, y el sistema de pago en línea simplifica las reservas. Además, la plataforma ofrece una experiencia interactiva que permite a los usuarios ver la disponibilidad en tiempo real, leer reseñas y participar en torneos. La vinculación con Instagram, Facebook., permite conectarse con otros jugadores y formar equipos. El análisis de datos y la personalización del servicio mejoran la experiencia según las preferencias de cada usuario.
+En resumen, Playtomic es un claro ejemplo de hibridación, al combinar múltiples tecnologías y medios para transformar la experiencia deportiva en algo más eficiente y social.
+
 
 
 ## Relacionarse sin salir de casa a la máxima expresión, _Tinder_
