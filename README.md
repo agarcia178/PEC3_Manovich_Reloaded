@@ -1,6 +1,6 @@
 # PEC3: Visionando el futuro con las gafas de ![Cultura Digital](gafas.jpg)
 
-### Recurso de aprendizaje de Cultura Digital 
+## Recurso de aprendizaje de Cultura Digital 
 
 
 >Autor: **Alvaro Garcia Baena**          
@@ -12,8 +12,8 @@ Fecha: **19/05/2024**
 
 
 
-## Introduccion
-# ¿ Qué es la hibridación ?
+# Introduccion
+## ¿ Qué es la hibridación ?
 ![Cultura Digital](fusion.png)
 
 >"Los medios híbridos basados en software combinan características y capacidades de diferentes formas de medios, como texto, imagen, video e interactividad, de maneras que trascienden sus definiciones originales."
@@ -30,7 +30,7 @@ Como veremos más adelante tanto Playtomic como Tinder son dos claros ejemplos d
 
 
 
-## El deporte a un click de movil, _PlayTomic_
+# El deporte a un click de movil, _PlayTomic_
 ![Cultura Digital](Playtomic.jpg)
 
 [Playtomic]( https://playtomic.io/)
@@ -49,7 +49,7 @@ Resuminedo, Playtomic es un claro ejemplo de hibridación, al combinar **múltip
 
 
 
-## Relacionarse sin salir de casa a la máxima expresión, _Tinder_
+# Relacionarse sin salir de casa a la máxima expresión, _Tinder_
 ![Cultura Digital](Tinder.jpg)
 
 [Tinder]( https://tinder.com/)
@@ -68,11 +68,13 @@ Tinder lanzo un nuevo sistema de **compartir cita** , lo que hace mucho más seg
 Y para rematar la fantástica aplicación de relaciones humanas , es posible la **comunicación** vía chat con la posibilidad de envío de fotos y videos , lo que hace la experiencia del usuari@ mucho más fácil , ágil y divertida.
 
 
-## Introduccion
+# Conclusión
 
+aaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
 
-
-### Referencias y Bibliografía
+# Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Tinder. (2024). Tinder. https://www.tinder.com
