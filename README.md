@@ -42,7 +42,7 @@ Mediante el uso de **geolocalización**, los usuarios pueden encontrar pistas ce
 
 Además, la plataforma ofrece una experiencia interactiva que permite a los usuarios ver la disponibilidad en **tiempo real**, leer reseñas y participar en torneos
 
-La vinculación con Instagram, Facebook., permite conectarse con otros jugadores y formar equipos. El **análisis de datos** y la personalización del servicio mejoran la experiencia según las preferencias de cada usuario.
+La vinculación con Instagram, Facebook., permite conectar con otros jugadores y formar equipos. El **análisis de datos** y la personalización del servicio mejoran la experiencia según las preferencias de cada usuario.
 Resuminedo, Playtomic es un claro ejemplo de hibridación, al combinar **múltiples tecnologías** y medios para transformar la experiencia deportiva en algo más eficiente y social.
 
 
@@ -52,10 +52,11 @@ Resuminedo, Playtomic es un claro ejemplo de hibridación, al combinar **múltip
 
 [Tinder]( https://tinder.com/)
 
-Seguro que todos conocemos Tinder ya sea por uso personal o por algún amigo o amiga que conoce de esta aplicación creada para el mundo de las relaciones humanas, Tinder es claramente una aplicación que combina los que Lev Manovich desarrolla en su concepto de Hibridación.
+Seguro que todos conocemos Tinder ya sea por uso personal o por algún amigo o amiga que conoce de esta aplicación creada para el mundo de las relaciones sociales, Tinder es claramente una aplicación que combina lo que Lev Manovich desarrolla en su concepto de Hibridación.
+
 Tinder es una aplicación que **fusiona muchas tecnologías**, de primeras, debemos crear un perfil que ya simplemente tienes la fusión del texto,imágenes,música .. ya que puede anclarse en tu perfil para que otros usuarios puedan ver tus preferencias o gustos de diferentes plataformas como Facebook, Instagram o Spotify entre otras.
 
-Cuenta con un **sistema de Geolocalización** que permite a los usuarios cercanos poder interactuar en tiempo real por cercanía
+Cuenta con un **sistema de Geolocalización** que permite a los usuarios cercanos poder interactuar en tiempo real.
 
 El sistema de esta aplicación es muy simple ( a priori ) ya que por detrás corre un sistema de **IA** que hace que las personas que te presenta la aplicación se base en un sistema de aprendizaje basado en los gustos de los usuarios
 
@@ -63,7 +64,7 @@ Además de todo esto los usuari@s pueden hacer un **filtrado** de presentación 
 
 Tinder lanzo un nuevo sistema de **compartir cita** , lo que hace mucho más segura las relaciones , ya que este compartir se lo puedes enviar a tus familiares y amigos
  
-Y para rematar la fantástica aplicación de relaciones humanas , es posible la **comunicación** vía chat con la posibilidad de envío de fotos y videos , lo que hace la experiencia del usuari@ mucho más fácil , ágil y divertida.
+Y para rematar la fantástica aplicación de relaciones sociales , es posible la **comunicación** vía chat con la posibilidad de envío de fotos y videos , lo que hace la experiencia del usuario mucho más fácil , ágil y divertida.
 
 
 # Conclusión
@@ -72,7 +73,7 @@ La teoría de la hibridación de Lev Manovich, se ejemplifica de manera destacad
 
 Tinder ha transformado el proceso de citas y relaciones sociales, mientras que Playtomic ha modernizado la gestión y reserva de instalaciones deportivas. 
 
-No solo simplifican las actividades relacionadas con su fin, sino que también mejoran la interacción social y la personalización del servicio. Así, estas aplicaciones se destacan como ejemplos prominentes de la hibridación tecnológica en la era digital.
+No solo simplifican las actividades relacionadas con su fin, sino que también mejoran la interacción social y la personalización del servicio. Así, estas aplicaciones se destacan como ejemplos claros de la hibridación tecnológica en la era digital.
 
 # Referencias y Bibliografía
 
