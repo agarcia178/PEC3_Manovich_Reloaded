@@ -68,6 +68,8 @@ Tinder lanzo un nuevo sistema de **compartir cita** , lo que hace mucho más seg
 Y para rematar la fantástica aplicación de relaciones humanas , es posible la **comunicación** vía chat con la posibilidad de envío de fotos y videos , lo que hace la experiencia del usuari@ mucho más fácil , ágil y divertida.
 
 
+## Introduccion
+
 
 
 ### Referencias y Bibliografía
