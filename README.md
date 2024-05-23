@@ -70,9 +70,11 @@ Y para rematar la fantástica aplicación de relaciones humanas , es posible la 
 
 # Conclusión
 
-aaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaa
+La teoría de la hibridación de Lev Manovich, se ejemplifica de manera destacada en aplicaciones como Tinder y Playtomic. Estas plataformas integran tecnologías digitales avanzadas con prácticas tradicionales para proporcionar servicios más accesibles, personalizados, eficientes e innovadores.
+
+Tinder ha transformado el proceso de citas y relaciones sociales, mientras que Playtomic ha modernizado la gestión y reserva de instalaciones deportivas. 
+
+No solo simplifican las actividades relacionadas con su fin, sino que también mejoran la interacción social y la personalización del servicio. Así, estas aplicaciones se destacan como ejemplos prominentes de la hibridación tecnológica en la era digital.
 
 # Referencias y Bibliografía
 
