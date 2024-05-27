@@ -45,6 +45,13 @@ Además, la plataforma ofrece una experiencia interactiva que permite a los usua
 La vinculación con Instagram, Facebook., permite conectar con otros jugadores y formar equipos. El **análisis de datos** y la personalización del servicio mejoran la experiencia según las preferencias de cada usuario.
 Resuminedo, Playtomic es un claro ejemplo de hibridación, al combinar **múltiples tecnologías** y medios para transformar la experiencia deportiva en algo más eficiente y social.
 
+# Conclusión de la Hibridacion en Playtomic
+
+Si nos ceñimos a la hibridación según Lev Manovich, podemos decir que Playtomic integra a la perfección diferentes tecnologías avanzadas para la creación de una nueva.
+Playtomic como hemos visto anteriormente es capaz de combinar la gestión de los usuarios, la geolocalización, el pago online, análisis de datos… para crear lo que hoy en día es una plataforma de ocio más reconocida a nivel mundial.
+
+
+
 
 
 # Relacionarse sin salir de casa a la máxima expresión, _Tinder_
@@ -65,6 +72,10 @@ Además de todo esto los usuari@s pueden hacer un **filtrado** de presentación 
 Tinder lanzo un nuevo sistema de **compartir cita** , lo que hace mucho más segura las relaciones , ya que este compartir se lo puedes enviar a tus familiares y amigos
  
 Y para rematar la fantástica aplicación de relaciones sociales , es posible la **comunicación** vía chat con la posibilidad de envío de fotos y videos , lo que hace la experiencia del usuario mucho más fácil , ágil y divertida.
+
+# Conclusión de la Hibridacion en Tinder
+
+
 
 
 # Conclusión
