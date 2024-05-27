@@ -75,7 +75,7 @@ Y para rematar la fantástica aplicación de relaciones sociales , es posible la
 
 # Conclusión de la Hibridacion en Tinder
 
-Tinder es un claro ejemplo de cómo la tecnología puede hibridar en diferentes elementos técnicos para crear una nueva forma de interacción con el usuario. Tinder combina varias tecnologías como geolocalización, perfiles de usuarios interactivos, chat... 
+Tinder es un claro ejemplo de cómo la tecnología puede fusionar diferentes elementos técnicos para crear una nueva forma de interacción con el usuario. Tinder combina varias tecnologías como geolocalización, perfiles de usuarios interactivos, chat... 
 Esta aplicación ha transformado la manera en que las personas se relacionan. Tinder ha redefinido la experiencia de relación a la versión v2.0 con la combinación de diferentes tecnologías al servicio del usuario
 
 
